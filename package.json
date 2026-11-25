@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.7.4",
-    "@libsql/client": "^0.17.2",
+    "@libsql/client": "^0.18.0",
     "astro": "^7.3.2",
     "cheerio": "^1.2.0",
     "dotenv": "^18.0.0",
