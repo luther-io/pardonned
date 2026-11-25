@@ -28,7 +28,7 @@
     "dotenv": "^17.4.1",
     "drizzle-orm": "^0.45.2",
     "playwright": "^1.59.1",
-    "satori": "^0.26.0",
+    "satori": "^0.33.0",
     "sharp": "^0.34.5"
   },
   "devDependencies": {
